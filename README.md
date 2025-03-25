@@ -1,3 +1,24 @@
+# Usage
+
+```
+images/
+gif/
+LICENSE.txt
+README.md
+main.py
+main_gif.py
+requirements.txt
+```
+1. Clone the repository with `git clone https://github.com/lachlanharrisdev/iterative-midpoint-refinement.git`
+2. Navigate to project directory `cd iterative-midpoint-refinement`
+3. Install requirements from file `pip install -r requirements.txt`
+
+Usage: run `main.py` to show an example of the algorithm. Modify `obstacles[]` in class initialisation to try out different polygons, each defined as a different vertex of the polygon.
+
+Run `gif.py` to generate each frame of a gif that showcases how the algorithm is "thinking".
+
+---
+
 # Introduction
 
 Call me weird, but pathfinding algorithms are some of the most fun algorithms to code. There's something about figuring out all of the cool optimisations you can apply to your very own variant of A*, how you can create a little critter that actually follows the path, or just putting random obstacles in the way and getting those little hits of dopamine when your algorithm works.
