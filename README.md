@@ -19,6 +19,8 @@ Run `gif.py` to generate each frame of a gif that showcases how the algorithm is
 
 ---
 
+*Read the properly formatted article at [my website](https://www.lachlanharris.dev/blog/string-pathfinding-algorithm)*
+
 # Introduction
 
 Call me weird, but pathfinding algorithms are some of the most fun algorithms to code. There's something about figuring out all of the cool optimisations you can apply to your very own variant of A*, how you can create a little critter that actually follows the path, or just putting random obstacles in the way and getting those little hits of dopamine when your algorithm works.
